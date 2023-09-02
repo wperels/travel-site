@@ -1,0 +1,10 @@
+// global CSS to pass down to all the below CSS
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
