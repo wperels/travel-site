@@ -3,15 +3,15 @@
 
 import '../styles/styles.css'
 import MobileMenu from './modules/MobileMenu'
-import RevealOnScroll from './modules/RevealOnScroll'
+//import RevealOnScroll from './modules/RevealOnScroll'
 
-let mobileMenue = new MobileMenu();
+let mobileMenu = new MobileMenu();
 
-let revealOnScroll = new RevealOnScroll();
+//let revealOnScroll = new RevealOnScroll(); */
 
 
 
-if (module.hot) {
+/* if (module.hot) {
     module.hot.accept()
-}
+} */
 
