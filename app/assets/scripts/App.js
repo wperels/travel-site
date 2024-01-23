@@ -2,11 +2,10 @@
 // in terminal **npm run dev**
 
 import '../styles/styles.css'
-
-// import MobileMenu from './modules/MobileMenu'
+import MobileMenu from './modules/MobileMenu'
 //import RevealOnScroll from './modules/RevealOnScroll'
 
-//let mobileMenue = new MobileMenu();
+let mobileMenu = new MobileMenu();
 
 //let revealOnScroll = new RevealOnScroll(); */
 
